@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pdf-maker/static/css/main.6bfee1dc.chunk.css",
+    "main.js": "/pdf-maker/static/js/main.62648d1a.chunk.js",
+    "main.js.map": "/pdf-maker/static/js/main.62648d1a.chunk.js.map",
+    "runtime-main.js": "/pdf-maker/static/js/runtime-main.6a2c8bbc.js",
+    "runtime-main.js.map": "/pdf-maker/static/js/runtime-main.6a2c8bbc.js.map",
+    "static/js/2.dd1b76e8.chunk.js": "/pdf-maker/static/js/2.dd1b76e8.chunk.js",
+    "static/js/2.dd1b76e8.chunk.js.map": "/pdf-maker/static/js/2.dd1b76e8.chunk.js.map",
+    "index.html": "/pdf-maker/index.html",
+    "precache-manifest.3ab9f3c6bbb1bb1bd3d9322f229dcc2f.js": "/pdf-maker/precache-manifest.3ab9f3c6bbb1bb1bd3d9322f229dcc2f.js",
+    "service-worker.js": "/pdf-maker/service-worker.js",
+    "static/css/main.6bfee1dc.chunk.css.map": "/pdf-maker/static/css/main.6bfee1dc.chunk.css.map",
+    "static/js/2.dd1b76e8.chunk.js.LICENSE.txt": "/pdf-maker/static/js/2.dd1b76e8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a2c8bbc.js",
+    "static/js/2.dd1b76e8.chunk.js",
+    "static/css/main.6bfee1dc.chunk.css",
+    "static/js/main.62648d1a.chunk.js"
+  ]
+}
